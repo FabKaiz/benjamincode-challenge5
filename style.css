@@ -1,0 +1,22 @@
+@font-face {
+  src: url(./fonts/Mattone-150.otf);
+  font-family: Mattone;
+}
+
+@font-face {
+  font-family: Fantome;
+  src: url(./fonts/Fantome/Fantome-Regular.otf);
+}
+
+.mattone {
+  font-family: Mattone;
+}
+
+.fantome {
+  font-family: Fantome;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
